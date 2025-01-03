@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a 21 year old programmer currently working on a smart home control app!
 
 <!--
 **Arsalan-ra/Arsalan-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
