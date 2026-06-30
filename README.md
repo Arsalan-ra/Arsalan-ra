@@ -12,7 +12,7 @@ Tempe, AZ · U.S. Citizen · Open to SWE & ML/AI internships
 Fine-tuned BERT classifier achieving 96% validation accuracy across 25 job categories. Full-stack app with FastAPI backend and React frontend deployed on Render + Vercel.  
 `Python` `BERT` `FastAPI` `React` `sentence-transformers`
 
-- **[ChipMetrics — Pricing Intelligence Platform](https://chipmetrics.streamlit.app)** — Streamlit analytics app for semiconductor pricing compliance and order analytics, built on messy enterprise CSV data. 
+**[ChipMetrics — Pricing Intelligence Platform](https://chipmetrics.streamlit.app)** — Streamlit analytics app for semiconductor pricing compliance and order analytics, built on messy enterprise CSV data. 
 `Python` `Streamlit` `pandas` `Plotly`
 
 ---
