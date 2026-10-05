@@ -2,7 +2,7 @@
 
 CS + Psychology @ Arizona State University  
 Building ML systems, data pipelines, and full-stack apps  
-Tempe, AZ · U.S. Citizen · Open to SWE & ML/AI internships
+Tempe, AZ · U.S. Citizen · Looking for analyst role
 
 ---
 
