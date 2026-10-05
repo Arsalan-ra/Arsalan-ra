@@ -24,13 +24,4 @@ Fine-tuned BERT classifier achieving 96% validation accuracy across 25 job categ
 **ML/AI:** HuggingFace Transformers · scikit-learn · sentence-transformers · BERT · AI-Assisted Development  
 **Tools:** Git · Azure · PostgreSQL · Docker · Linux
 
----
 
-## Experience
-
-**Teaching Assistant — Data Structures & Algorithms @ ASU**  
-Supporting 200+ students in a C++ based DSA course. Led review sessions, designed original practice problems and test cases used course-wide.
-
----
-
-[LinkedIn](https://linkedin.com/in/arsalan-rahimian) · arsalanrahimian44@gmail.com
